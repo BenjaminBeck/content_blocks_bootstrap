@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace KOHLERCODE\ContentBlocksBootstrap\Preview;
+namespace Kohlercode\ContentBlocksBootstrap\Preview;
 
 use TYPO3\CMS\Backend\Routing\UriBuilder;
 use TYPO3\CMS\Backend\Utility\BackendUtility;
